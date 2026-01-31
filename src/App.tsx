@@ -66,7 +66,7 @@ function App() {
                 />
               </div>
               <div className="p-4 flex flex-col flex-grow">
-                <h2 className="text-xl font-semibold text-white mb-2 line-clamp-1">{product.title}</h2>
+                <h2 className="text-xl font-semibold text-white mb-2 line-clamp-3">{product.title}</h2>
                 <p className="text-green-400 text-lg font-bold mb-3">${product.price.toFixed(2)}</p>
                 <p className="text-gray-300 text-sm line-clamp-3">{product.description}</p>
               </div>
