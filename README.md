@@ -1,4 +1,4 @@
-# buscar-dados-api-react
+# Buscar Dados Api React
 
 Este é um projeto simples em React que busca dados de uma API de produtos e os exibe em uma lista.
 
@@ -17,6 +17,15 @@ O projeto utiliza as seguintes tecnologias:
 - Exibe uma lista de produtos obtida da API.
 - Mostra uma mensagem de carregamento enquanto os dados estão sendo buscados.
 - Exibe uma mensagem de erro caso a busca falhe.
+
+## 📷 Screenshot
+
+![Design do projeto](./src/design/tablet-design.png)
+
+### 🔗 Links
+
+- Solução no Repositório: [Acesse o repositório aqui](https://github.com/jsales25/buscar-dados-api-react.git)
+- Live Site: [Acesse o site aqui](https://jsales25.github.io/buscar-dados-api-react/)
 
 ## Como Executar o Projeto
 
@@ -59,3 +68,17 @@ No diretório do projeto, você pode executar:
 - `npm run build`: Compila o projeto para produção.
 - `npm run lint`: Executa o linter para verificar o código.
 - `npm run preview`: Inicia um servidor local para visualizar a build de produção.
+
+## 👩‍💻 Autor
+
+**Julia Sales**
+
+- **GitHub:** [Acesse o GitHub da autora aqui](https://github.com/jsales25)
+- **Frontend Mentor:** [Acesse o Frontend Mentor da autora aqui](https://www.frontendmentor.io/profile/jsales25)
+- **LinkedIn:** [Acesse o LinkedIn da autora aqui](https://www.linkedin.com/in/julia-sales-developer/)
+
+---
+
+<div align="center">
+  Feito com 💜 por Julia Sales
+</div>
